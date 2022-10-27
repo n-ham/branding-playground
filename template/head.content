@@ -1,0 +1,9 @@
+<title>empty site - $[title]</title>
+<meta name="description" content="">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="@pathto(output/assets/css/style.css)">
+
+<script defer src="@pathto(output/assets/js/animate_colors.js)"></script>

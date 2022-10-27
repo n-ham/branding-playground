@@ -1,0 +1,73 @@
+<div align="center">
+	<br><br><br><br><br><br><br><br>
+	<img 
+		id ="1d-neon-1" 
+		src="@pathto(output/assets/img/1d-neon-1.png)" 
+		style="width: 750px; margin-top: 100px"
+	>
+	<img 
+		id ="1d-neon-2" 
+		src="@pathto(output/assets/img/1d-neon-2.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-3" 
+		src="@pathto(output/assets/img/1d-neon-3.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-4" 
+		src="@pathto(output/assets/img/1d-neon-4.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-5" 
+		src="@pathto(output/assets/img/1d-neon-5.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-6" 
+		src="@pathto(output/assets/img/1d-neon-6.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-7" 
+		src="@pathto(output/assets/img/1d-neon-7.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-8" 
+		src="@pathto(output/assets/img/1d-neon-8.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-9" 
+		src="@pathto(output/assets/img/1d-neon-9.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-10" 
+		src="@pathto(output/assets/img/1d-neon-10.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-11" 
+		src="@pathto(output/assets/img/1d-neon-11.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="1d-neon-12" 
+		src="@pathto(output/assets/img/1d-neon-12.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="evil-laughter" 
+		src="@pathto(output/assets/img/evil-laughter-name-neon.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+	<img 
+		id ="zombite" 
+		src="@pathto(output/assets/img/zombite-name-neon.png)" 
+		style="width: 750px; margin-top: 500px; margin-bottom: 500px"
+	>
+</div>
