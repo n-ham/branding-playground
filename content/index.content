@@ -68,6 +68,49 @@
 	<img 
 		id ="zombite" 
 		src="@pathto(output/assets/img/zombite-name-neon.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+
+	<img 
+		id ="evil-laughter-fn" 
+		src="@pathto(output/assets/img/evil-laughter-fn-neon.png)" 
+		style="width: 750px; margin-top: 300px"
+	>
+	<img 
+		id ="zombite-fn" 
+		src="@pathto(output/assets/img/zombite-fn-neon.png)" 
+		style="width: 750px; margin-top: 300px;"
+	>
+
+
+	<img 
+		src="@pathto(output/assets/img/zombite-name.png)" 
+		style="width: 750px; margin-top: 300px"
+	>
+
+	<img 
+		id ="zombite" 
+		src="@pathto(output/assets/img/evil-laughter-name.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+
+	<img 
+		id ="zombite" 
+		src="@pathto(output/assets/img/zombite.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+
+	<img 
+		id ="zombite" 
+		src="@pathto(output/assets/img/evil-laughter.png)" 
+		style="width: 750px; margin-top: 500px"
+	>
+
+	<img 
+		id ="zombite" 
+		src="@pathto(output/assets/img/franken-koala.png)" 
 		style="width: 750px; margin-top: 500px; margin-bottom: 500px"
 	>
+
+
 </div>
