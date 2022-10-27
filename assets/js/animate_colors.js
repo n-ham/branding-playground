@@ -17,6 +17,8 @@ const neon_1d_11 = document.getElementById("1d-neon-11");
 const neon_1d_12 = document.getElementById("1d-neon-12");
 const evil_laughter = document.getElementById("evil-laughter");
 const zombite = document.getElementById("zombite");
+const evil_laughter_fn = document.getElementById("evil-laughter-fn");
+const zombite_fn = document.getElementById("zombite-fn");
 
 
 
@@ -53,6 +55,8 @@ async function animate_colors()
 				= neon_1d_12.style.background 
 				= evil_laughter.style.background 
 				= zombite.style.background 
+				= evil_laughter_fn.style.background 
+				= zombite_fn.style.background 
 				= "hsl(" + h + "deg, 50%, 50%)";
 
 			h = (h+2)%360;
